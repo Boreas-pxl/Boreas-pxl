@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 
 📫 How to reach me: peixinlei1998@gmail.com
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Boreas-pxl&show_icons=true&theme=dark&count_private=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Boreas-pxl&show_icons=true&theme=light&count_private=true)
 
