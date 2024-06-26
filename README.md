@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 I’m currently working on cross-modal retrieval.
+🌱 I’m currently learning on Multi-modal Learning.
 
 📫 How to reach me: peixinlei1998@gmail.com
 
