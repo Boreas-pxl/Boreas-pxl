@@ -11,10 +11,23 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 🌱 I’m currently learning on Multi-modal Learning.
 
 📫 How to reach me: peixinlei1998@gmail.com
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Laneio&show_icons=true&theme=light&count_private=true)
+-->
+
+#### Hi 👋, I am Xinlei Pei, a AI enthusiasts.
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Laneio&label=Profile%20views&color=0e75b6&style=flat" alt="Laneio" /> </p>
+
+- 🔭 I’m currently working on Big Data 😉
+- 🌱 I’m currently learning everything 😂
+- 👯 I’m looking to collaborate with other content creators 👯
+- 🎯 2024 Goals: Learning multi-modal large models 😎
+- ⚡ Fun fact: I love to play Basketball 🏀
+
+[![Github States](https://github-readme-stats.vercel.app/api?username=Laneio&show_icons=true&theme=light&count_private=true)](https://github.com/Laneio/github-readme-stats)
 
