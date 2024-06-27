@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 - 🎯 2024 Goals: Learning multi-modal large models 😎
 - ⚡ Fun fact: I love to play Basketball 🏀
 
-[![Laneio's GitHub stats](https://github-readme-stats.vercel.app/api?username=Laneio)]
+https://github-readme-stats.vercel.app/api?username=Laneio
