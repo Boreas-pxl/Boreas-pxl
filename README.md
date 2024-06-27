@@ -1,4 +1,4 @@
-#### Hi 👋, I am Xinlei Pei, an AI enthusiast.
+#### Hi 👋, I am Pei Xinlei, an AI enthusiast.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=peixinlei&label=Profile%20views&color=0e75b6&style=flat" alt="peixinlei" /> </p>
 
